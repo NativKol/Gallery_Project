@@ -1,0 +1,4 @@
+E:\cyber\magshimim\Y2\c++\Semester B\gallery_nativkolisher_2022\downloaded\Gallery\Debug\Gallery.exe
+E:\cyber\magshimim\Y2\c++\Semester B\gallery_nativkolisher_2022\downloaded\Gallery\Debug\Gallery.pdb
+E:\cyber\magshimim\Y2\c++\Semester B\gallery_nativkolisher_2022\Gallery\Debug\Gallery.exe
+E:\cyber\magshimim\Y2\c++\Semester B\gallery_nativkolisher_2022\Gallery\Debug\Gallery.pdb
